@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>I am Lennart, nice to meet you – Blogs</title>
+    <title>Lennart Damen – Blogs</title>
     <link>http://localhost:1313/blogs/</link>
-    <description>Recent content in Blogs on I am Lennart, nice to meet you</description>
+    <description>Recent content in Blogs on Lennart Damen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Jun 2025 20:47:12 +0200</lastBuildDate>

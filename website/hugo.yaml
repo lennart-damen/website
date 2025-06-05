@@ -1,11 +1,20 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: I am Lennart, nice to meet you
+title: Lennart Damen
 theme: hextra
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
 menu:
   main:
-    - name: Blog
+    - name: Blogs
       pageRef: /blogs
+      weight: 1
+    - name: Drawings
+      pageRef: /drawings
       weight: 1
     - name: Search
       params:

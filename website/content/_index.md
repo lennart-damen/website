@@ -2,6 +2,12 @@
 date: '2025-06-02T20:45:07+02:00'
 draft: true
 title: ''
-layout: hextra-home
+layout: home
 ---
-![](/images/drawings/20250513_2.png)
+
+
+<div style="display: flex; justify-content: center; padding: 1rem;">
+  <div style="font-size: clamp(2rem, 8vw, 6rem); text-align: center; max-width: 600px;">
+    Hi! I'm Lennart
+  </div>
+</div>

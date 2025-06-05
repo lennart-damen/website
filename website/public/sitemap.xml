@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/drawings/</loc>
+    <lastmod>2025-06-05T20:25:14+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blogs/on_dutch_immigration_policy/</loc>
     <lastmod>2025-06-02T21:01:05+02:00</lastmod>
   </url><url>
