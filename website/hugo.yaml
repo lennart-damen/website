@@ -19,6 +19,7 @@ menu:
     - name: Search
       params:
         type: search
+
 params:
   navbar:
     displayTitle: true
@@ -29,3 +30,5 @@ params:
       link: /
       width: 40
       height: 20
+  footer:
+    enable: false
