@@ -1,13 +1,25 @@
-baseURL: https://lennart-damen.github.io/website/
+# Base settings
+baseURL: https://lennart-damen.github.io/
 languageCode: en-us
 title: Lennart Damen
-theme: hextra
+
+# For custom layout
 markup:
   goldmark:
     renderer:
       unsafe: true
   highlight:
     noClasses: false
+
+# For Github Pages hosting
+caches:
+  images:
+    dir: :cacheDir/images
+canonifyURLs: true
+relativeURLs: false
+
+# Hextra layout
+theme: hextra
 menu:
   main:
     - name: Blogs
@@ -19,9 +31,6 @@ menu:
     - name: Search
       params:
         type: search
-caches:
-  images:
-    dir: :cacheDir/images
 params:
   navbar:
     displayTitle: true
