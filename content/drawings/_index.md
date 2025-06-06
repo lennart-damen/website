@@ -1,6 +1,5 @@
 ---
 date: '2025-06-05T20:25:14+02:00'
-draft: true
 title: 'Drawings'
 ---
 

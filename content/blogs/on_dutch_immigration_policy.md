@@ -1,6 +1,5 @@
 ---
 date: '2025-06-02T21:01:05+02:00'
-draft: true
 title: 'On Dutch immigration policy'
 ---
 
