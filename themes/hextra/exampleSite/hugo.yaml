@@ -138,8 +138,8 @@ params:
 
   theme:
     # light | dark | system
-    default: system
-    displayToggle: true
+    default: light
+    displayToggle: false
 
   footer:
     enable: true
@@ -166,7 +166,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/imfing/hextra/edit/main/exampleSite/content"
+    base: "https://github.com/lennart-damen/personal-website"
 
   blog:
     list:

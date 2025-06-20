@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function () {
 // 
 
 (function () {
-  const searchDataURL = '/en.search-data.json';
+  const searchDataURL = '/personal-website/en.search-data.json';
 
   const inputElements = document.querySelectorAll('.search-input');
   for (const el of inputElements) {
