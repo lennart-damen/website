@@ -11,13 +11,6 @@ markup:
   highlight:
     noClasses: false
 
-# For Github Pages hosting
-# caches:
-#   images:
-#     dir: :cacheDir/images
-# canonifyURLs: true
-# relativeURLs: false
-
 # Hextra layout
 theme: hextra
 menu:
