@@ -12,9 +12,9 @@ markup:
     noClasses: false
 
 # For Github Pages hosting
-caches:
-  images:
-    dir: :cacheDir/images
+# caches:
+#   images:
+#     dir: :cacheDir/images
 # canonifyURLs: true
 # relativeURLs: false
 
@@ -38,8 +38,12 @@ params:
     logo:
       path: images/logo.svg
       dark: images/logo-dark.svg
-      link: /
+      link: /website
       width: 40
       height: 20
   footer:
     enable: false
+  # theme:
+  #   # light | dark | system
+  #   default: system
+  #   displayToggle: false
