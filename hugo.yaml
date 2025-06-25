@@ -43,7 +43,6 @@ params:
       height: 20
   footer:
     enable: false
-  # theme:
-  #   # light | dark | system
-  #   default: system
-  #   displayToggle: false
+  theme:
+    default: light
+    displayToggle: false
