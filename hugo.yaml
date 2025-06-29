@@ -15,8 +15,8 @@ markup:
 theme: hextra
 menu:
   main:
-    - name: Tech
-      pageRef: /tech
+    - name: Professional
+      pageRef: /professional
       weight: 1  
     - name: Personal
       pageRef: /personal

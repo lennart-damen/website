@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/website/personal/the_things_i_like/</loc>
+    <lastmod>2025-06-29T22:16:16+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/website/professional/</loc>
+    <lastmod>2025-06-29T22:15:22+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/website/personal/sleepwalking/</loc>
+    <lastmod>2025-06-25T20:29:53+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/website/drawings/</loc>
+    <lastmod>2025-06-05T20:25:14+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/website/personal/</loc>
+    <lastmod>2025-06-02T20:47:12+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/website/</loc>
+    <lastmod>2025-06-02T20:45:07+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/website/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/website/tags/</loc>
+  </url>
+</urlset>
