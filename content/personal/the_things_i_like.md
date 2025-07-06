@@ -48,6 +48,7 @@ See [goodreads](https://www.goodreads.com/user/show/111776600-lennart-damen)
 - Fleabag
 - Carol and the end of the world
 - Narcos
+- Bir Başkadır
 - Baby reindeer
 - After life
 - The office (US)
@@ -58,7 +59,6 @@ See [goodreads](https://www.goodreads.com/user/show/111776600-lennart-damen)
 
 # Movies
 
-In no particular order
 - Birdman
 - Monsters Inc
 - Everything You Always Wanted to Know About Sex But Were Afraid to Ask
@@ -78,3 +78,12 @@ In no particular order
 - 500 days of summer
 - Alexander the great
 - The departed
+
+# Standup comedy
+
+- Louis CK
+- Bill Burr
+- Jeff Arcuri
+- Taylor Tomlinson
+- Harrie Jekkers
+- Herman Finkers
