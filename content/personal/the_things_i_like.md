@@ -42,6 +42,7 @@ See [goodreads](https://www.goodreads.com/user/show/111776600-lennart-damen)
 
 # Series
 
+- How to with John Wilson
 - Bojack horseman
 - Black mirror
 - Community
